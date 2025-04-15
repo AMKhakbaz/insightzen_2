@@ -1,0 +1,10 @@
+streamlit==1.44.1
+plotly
+scipy
+traceback
+pyxlsb
+openpyxl
+collections
+pandas
+numpy
+scikit-learn
